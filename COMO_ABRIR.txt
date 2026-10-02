@@ -1,0 +1,2 @@
+Extraia o ZIP e abra index.html no Chrome ou Edge.
+Hero com video em loop e botao de pausa. Mapa interativo por regiao. Formulario demonstrativo.
