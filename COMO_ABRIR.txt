@@ -1,2 +1,5 @@
-Extraia o ZIP e abra index.html no Chrome ou Edge.
-Hero com video em loop e botao de pausa. Mapa interativo por regiao. Formulario demonstrativo.
+Extraia toda a pasta. Abra index.html no Chrome ou Edge. O blog está em blog.html.
+Os 6 artigos são textos editoriais iniciais para revisão antes da publicação.
+O formulário da home permanece demonstrativo.
+Para upload, envie a pasta inteira com todos os HTMLs e assets, mantendo os caminhos.
+No Wix, implemente as páginas e links correspondentes no editor ou use o HTML como referência.
